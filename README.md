@@ -31,6 +31,8 @@ A clean, fully responsive notes application built with **React** and **Tailwind 
 ---
 
 ## 📁 Project Structure
+<img width="518" height="797" alt="Screenshot 2026-03-04 062436" src="https://github.com/user-attachments/assets/dc23088a-b858-4b61-b8d8-c8f67cc497fb" />
+<img width="1593" height="810" alt="Screenshot 2026-03-04 062022" src="https://github.com/user-attachments/assets/bae0e2a1-4e62-453d-a348-e2a41ab863bd" />
 
 ```
 src/
